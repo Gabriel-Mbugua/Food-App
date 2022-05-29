@@ -223,7 +223,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     flex: 1,
     // borderWidth: 0.5,
-    backgroundColor: 'ghostwhite',
+    // backgroundColor: 'ghostwhite',
     borderRadius: 10,
   },
   row: {
